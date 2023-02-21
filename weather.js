@@ -1,4 +1,4 @@
-var appId = '01667dfc025df274558f94f00ab27ca7'
+var appId = 'a82557ceb02631baceda263e474dfae1'
 var weatherApiUrl = 'http://api.openweathermap.org/data/2.5/weather?units=imperial&q=Saratoga Springs&appid=' + appId;
 
 $(document).ready(function () {
